@@ -1,4 +1,4 @@
-Git is a free software ...... //this is . ;
+Git is a free software ...... //this is a hot fix
 this is second 
 Git has a mutable index called stage.
 Git tracks change.
