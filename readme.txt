@@ -1,4 +1,4 @@
-this is first
+Git is a free software ..
 this is second 
 Git has a mutable index called stage.
 Git tracks change.
